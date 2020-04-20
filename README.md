@@ -5,3 +5,5 @@ Sno       Topics     |    status
            
             
   1)      Arrays         Completed
+  2)      Linked List    Completed
+  3)      Stack          Pending
