@@ -8,4 +8,4 @@ Sno       Topics     |    status
   2)      Linked List    Completed
   3)      Stack          Completed
   4)      Queue          Pending
-  5).     BST.           Pending
+  5)       BST           Pending
