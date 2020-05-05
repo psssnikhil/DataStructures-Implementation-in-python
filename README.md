@@ -7,5 +7,5 @@ Sno       Topics     |    status
   1)      Arrays         Completed
   2)      Linked List    Completed
   3)      Stack          Completed
-  4)      Queue          Pending
+  4)      Queue          Completed
   5)       BST           Pending
